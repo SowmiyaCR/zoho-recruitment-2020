@@ -15,7 +15,7 @@ void main()
   {
    printf("%d", (a-i)+1);
   }
-  printf("/n");
+  printf("\n");
  } 
  return 0;
 } 
